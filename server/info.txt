@@ -1,0 +1,4 @@
+//Whenever you see an object but with Strings on both sides, then it’s a Json format!
+//GitHub server—> https://api.github.com/users/userName
+
+// want to make a request to the Server using javascript without a browser 
